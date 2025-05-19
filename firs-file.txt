@@ -2,3 +2,5 @@
 function sayhi() {
 	alert("Hello world");
 }
+
+//say goodbye
