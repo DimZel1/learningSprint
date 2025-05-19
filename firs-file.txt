@@ -1,3 +1,4 @@
 //this is a text
-function sayhi() (
+function sayhi() {
 	alert("Hello world");
+}
